@@ -17,7 +17,7 @@ The Following maps and graph were created using the Baltimore community Vital Si
 
 For this section I used Bigfoot and Dogman sighting data that I found online here: https://data.world/timothyrenner
 
-I ran a few simple types of analsis that are listed above each map. I found the point data online, and used the count "count points in polygon" tool in QGIS to find the number of BigFoot and Dogman sightings in each congressional district. From there, the data was ready to be used 
+I ran a few simple types of analsis that are listed above each map. I found the point data online, and used the count "count points in polygon" tool in QGIS to find the number of BigFoot and Dogman sightings in each congressional district. From there, the data was ready to be used. 
 
 Here is a univariate regression on Bigfoot sightings within the United States
 ![](https://user-images.githubusercontent.com/42807663/49198055-711d7a00-f35f-11e8-906b-e20eeee7974e.png)
@@ -29,5 +29,5 @@ Here is a Moran's scatterplot of the Bigfoot regression data.
 Below is a percentile map of Bigfoot sightings in the United States.
 ![](https://user-images.githubusercontent.com/42807663/49198073-81cdf000-f35f-11e8-917c-b317d4a6076d.png)
 
-As an added bonus, here is a Co-Location map of both DogMan and Bigfoot sightings
+As an added bonus, here is a Co-Location map of both DogMan and Bigfoot sightings. I had never heard of Dogman before this excercise, but I obviously couldn't pass up an opportunity to use the data provided to me. Could they be in league? 
 ![](https://user-images.githubusercontent.com/42807663/49199257-d6c03500-f364-11e8-9791-138a9778c756.png)
